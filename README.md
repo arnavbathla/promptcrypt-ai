@@ -4,6 +4,9 @@
 
 This Python script demonstrates how to integrate with the OpenAI API using a simple "encryption" and "decryption" mechanism for the prompts. It uses Base64 encoding as a simulated form of encryption to showcase how data might be manipulated before being sent to the API. This example specifically uses GPT-3.5, but feel free to switch between models.
 
+<img width="1506" alt="Screenshot 2024-02-11 at 9 00 17 PM" src="https://github.com/arnavbathla/promptcrypt-ai/assets/77173537/01f6d58c-28bd-482b-ac9a-e443a1374e23">
+
+
 ## Requirements
 
 - Python 3.x
